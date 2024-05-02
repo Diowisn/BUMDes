@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+.column {
+  flex: 50%;
+  /* width: 500px; */
+  height: auto;
+  
+}
+
+.row2 {
+    display: flex;
+}
+
+
